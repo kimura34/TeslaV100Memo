@@ -1,1 +1,0 @@
-# TeslaV100Memo
